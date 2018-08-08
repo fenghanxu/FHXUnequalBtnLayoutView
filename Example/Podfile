@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'FHXUnequalBtnLayoutView_Example' do
+  pod 'FHXUnequalBtnLayoutView', :path => '../'
+
+  target 'FHXUnequalBtnLayoutView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+  
+  pod 'Then'
+  
+end

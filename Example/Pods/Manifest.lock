@@ -1,0 +1,31 @@
+PODS:
+  - FHXColorAndFont (0.1.0):
+    - FHXKit
+  - FHXFoundation (0.1.6)
+  - FHXKit (0.1.3):
+    - FHXFoundation
+  - FHXUnequalBtnLayoutView (0.1.0):
+    - FHXColorAndFont
+    - SnapKit
+  - SnapKit (4.0.0)
+  - Then (2.3.0)
+
+DEPENDENCIES:
+  - FHXUnequalBtnLayoutView (from `../`)
+  - Then
+
+EXTERNAL SOURCES:
+  FHXUnequalBtnLayoutView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXColorAndFont: 7fe0141b9d8a81e3a2a5e8f475596d436881f2b6
+  FHXFoundation: 2e258421df559b4b1cdef4e6f0abf4fb92102ffa
+  FHXKit: 74692b3434b72aa2bc1433a6b616011c2ffe4446
+  FHXUnequalBtnLayoutView: 0c62b2fc5b3b198ac076b03cf9f155d934bf1655
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  Then: ee21c97b85ff6062b9b0080c9abb1eea46743345
+
+PODFILE CHECKSUM: 9b65e66ff44ed1bd69b404eca1ac24e6a6b76003
+
+COCOAPODS: 1.4.0

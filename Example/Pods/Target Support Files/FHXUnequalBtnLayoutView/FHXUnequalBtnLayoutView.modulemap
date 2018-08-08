@@ -1,0 +1,6 @@
+framework module FHXUnequalBtnLayoutView {
+  umbrella header "FHXUnequalBtnLayoutView-umbrella.h"
+
+  export *
+  module * { export * }
+}
